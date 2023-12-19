@@ -1,4 +1,4 @@
-# Udacity Landing Page Project
+# Landing Page Project
 
 ## Table of Contents
 
